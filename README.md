@@ -59,12 +59,12 @@ Real-time analytics using **Spark Streaming + ML**
 → Built pipelines to process live sensor data  
 → Implemented forecasting & visualization for air quality trends  
 
-#### 🎫 **Event Management System**
+#### 🎫 **HealHub(Event Management System)**
 Full-stack web app for event scheduling and attendee management  
 → Developed using **Node.js + Express + MongoDB + EJS**  
 → Clean interface with CRUD functionality  
 
-#### 💰 **Personal Finance Tracker**
+#### 💰 **Money Mentor (Finance Tracker)**
 Smart finance tracking dashboard  
 → Built using **React + Firebase**  
 → Real-time updates & visual spending insights  
