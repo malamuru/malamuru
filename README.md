@@ -6,7 +6,7 @@
 
 ### ✨ About Me
 
-I'm **Mounika Alamuru**, currently pursuing my **Master’s in Information Technology** at **UNC Charlotte**.  
+I'm **Mounika Alamuru**, recently gradated  my **Master’s in Information Technology** at **UNC Charlotte**.  
 I enjoy learning new technologies and building applications that are simple, useful, and impactful.
 
 - 🌥️ Interested in **Cloud Computing**, **Big Data Analytics**, and **Full-Stack Application Development**
